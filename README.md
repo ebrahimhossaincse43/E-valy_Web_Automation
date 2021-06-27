@@ -13,6 +13,7 @@
 - Install TestNG on your IDE
 - Install Eclipse/STS or any other IDE
 - Setup Java, Maven environment on your PC
+- Chrome driver match with your browser
 
 ### **[Requirements:](url)**
 These steps are executed:
