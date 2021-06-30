@@ -20,11 +20,12 @@ These steps are executed:
 
 - Open the Chrome browser
 - Maximize the browser window
-- Go to  Selenium Web Site
-- Click About Menu Section
-- Click sub about menu
-- Get "Selenium is a suite of tools for automating web browsers" text and validate it.
--  Take Screenshot
+- Go to  Evaly Web Site
+- Click login button 
+- Login with username and password
+- Click all shoes and select a shoe
+- Add to cart
+- Take Screenshot
 - Close the browser
 
 ### **[Run the script:](url)**
