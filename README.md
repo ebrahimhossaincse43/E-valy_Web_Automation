@@ -1,4 +1,4 @@
-### **[Evaly_Web_Automation](url)**
+### **[# Selenium-Website-Automation-Using-Selenium-and-Page-Object-Model](url)**
 
 ### **[Technology used](url)**
 - Test tool: Selenium
@@ -20,12 +20,10 @@ These steps are executed:
 
 - Open the Chrome browser
 - Maximize the browser window
-- Go to  Evaly Web Site
-- Click Login Button
-- Login with Gmail and password
-- Click All shops
-- Choose a shoe 
--  Click add to cart
+- Go to  Selenium Web Site
+- Click About Menu Section
+- Click sub about menu
+- Get "Selenium is a suite of tools for automating web browsers" text and validate it.
 -  Take Screenshot
 - Close the browser
 
